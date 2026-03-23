@@ -1,4 +1,4 @@
-CO 543 – Computer Vision 
+
 Machine Exercise 1 
 Red Light Green Light 
 Overview
